@@ -1,0 +1,6 @@
+{
+  "name": "BarberInfo",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./BarberInfo.js"
+}

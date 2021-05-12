@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "bootstrap": "4.0.0-beta.2",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "codemirror": "5.32.0",
     "font-awesome": "^4.7.0",
     "history": "4.7.2",
